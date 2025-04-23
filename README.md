@@ -1,13 +1,13 @@
-# 👋 ¡Hola! Soy Emmanuel Rodríguez Buzzo
+# 👋 ¡Hola! Soy Emmanuel Rodríguez.
 
-🎯 *QA Tester | Desarrollador Backend y Automatización*  
-💻 *Java • Spring Boot • React • TypeScript • Ruby on Rails • Turbo*
+🎯 *QA Tester | Software Developer*  
+💻 *Java • Spring Boot • React • TypeScript • Ruby on Rails
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-Soy un profesional con experiencia en aseguramiento de calidad de software, automatización de pruebas y desarrollo backend. Me especializo en construir soluciones sólidas, limpias y eficientes utilizando buenas prácticas y tecnologías modernas.
+Experiencia en aseguramiento de calidad de software, automatización de pruebas y desarrollo backend. Me especializo en construir soluciones sólidas, limpias y eficientes utilizando buenas prácticas y tecnologías modernas.
 
 Apasionado por la mejora continua, el aprendizaje constante y los desafíos técnicos que permiten crecer como desarrollador.
 
@@ -41,21 +41,14 @@ Apasionado por la mejora continua, el aprendizaje constante y los desafíos téc
 
 ### 🚀 En constante aprendizaje
 
-- Profundizando en **Ruby on Rails** y su ecosistema moderno con **Turbo** y **Stimulus**
+- Actualmente profundizando en **Ruby on Rails** y su ecosistema moderno con **Turbo** y **Stimulus**
 - Explorando arquitecturas limpias y pruebas automatizadas en proyectos reales
-
----
-
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=emmanuelrb&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelrb&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contacto
 
-- 📧 emmanuelrb@example.com  
+- 📧 emmanuelrgeek@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmanuelrodr%C3%ADguezbuzzo/)
 
 
