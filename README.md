@@ -25,12 +25,17 @@ Apasionado por la mejora continua, el aprendizaje constante y los desafíos téc
 #### Front End
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
 ![Turbo (Hotwire)](https://img.shields.io/badge/-Turbo%20(Hotwire)-F05245?logo=ruby&logoColor=white&style=flat)
 
 #### Testing y herramientas
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=microsoftedge&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white&style=flat)
+
 
 ---
 
